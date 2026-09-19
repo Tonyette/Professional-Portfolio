@@ -84,7 +84,7 @@ This unique background bridges technical execution with analytical communication
 
 ---
 
-## Professional Résumé
+## Professional Resume
 
 ### **Feyisayo Famakinde**
 **Cloud Infrastructure Engineer | Disciple-Leader**  
