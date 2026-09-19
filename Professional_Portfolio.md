@@ -2,7 +2,7 @@
 
 ## Principle 1: Doing Our Part So the Lord Can Bless Our Work
 
-God has bestowed us with the gifts of Moral Agency and capacity so we can make decisions and do work with our own minds and hands. Also, the blessings of intellectual quickening, reading, writing, and professional breakthroughs should be active gifts—they are not meant to be dormant. In a career like cloud infrastructure, systems administration, and software engineering, mastery requires sustained patience, rigorous study, and relentless troubleshooting.
+God has bestowed us with the gifts of Moral Agency and capacity so we can make decisions and do work with our own minds and hands. Also, the blessings of intellectual quickening, reading, writing, and professional breakthroughs should be active gifts-they are not meant to be dormant. In a career like cloud infrastructure, systems administration, and software engineering, mastery requires sustained patience, rigorous study, and relentless troubleshooting.
 
 Viewing work through this lens moves it from labor into consecrated stewardship; I begin to see our daily job as an expression of my ordinances towards the Heavenly Father. Therefore, instead of relying only on my creativity instead of adequate preparation, I commit to putting in the required efforts by reading documentation, testing architectures, and diagnosing bugs methodically. When I exhaust my own honest efforts and reach the limits of my knowledge, I can approach the Lord with confidence in prayer, knowing that He honors faithful labor and will magnify my natural abilities to accomplish His purposes.
 
@@ -11,17 +11,17 @@ Viewing work through this lens moves it from labor into consecrated stewardship;
 * **Professional Impact:** This principle prevents passivity and shortcuts in systems architecture. When managing production environments or writing infrastructure code, this principle drives me to write clean, maintainable, and thoroughly tested configurations rather than relying on unverified assumptions.
 
 ### Initial Curated Materials
-* **Scripture — Doctrine and Covenants 64:33–34:**  
+* **Scripture - Doctrine and Covenants 64:33–34:**  
   *Context:* Affirms that greatness is built through small, consistent, and faithful daily actions.
-* **Scripture — Doctrine and Covenants 9:7–8:**  
+* **Scripture - Doctrine and Covenants 9:7–8:**  
   *Context:* Establishes the divine pattern of engaging the mind, doing research, and working through problems before seeking divine confirmation.
-* **Scripture — Doctrine and Covenants 88:124:**  
+* **Scripture - Doctrine and Covenants 88:124:**  
   *Context:* Provides practical counsel on physical and mental renewal through disciplined daily habits.
-* **BYU Speech — *The Blessings of Work* by David Sorensen:**  
+* **BYU Speech - *The Blessings of Work* by David Sorensen:**  
   *Context:* Teaches that work is a divine commandment and a sacred blessing that builds character, self-reliance, and spiritual strength.
-* **Scripture — Ecclesiastes 9:10:**  
+* **Scripture - Ecclesiastes 9:10:**  
   *Context:* Emphasizes the importance of excellence, time management, and efficiency.
-* **Personal Experience — Seeking Divine Light During Troubleshooting:**  
+* **Personal Experience - Seeking Divine Light During Troubleshooting:**  
   *Context:* Reinforces that God is present within and during our tough periods; we must do our best but also rely on Him.
 
 ---
@@ -37,22 +37,22 @@ This principle demands that my professional conduct and spiritual covenants be w
 * **Professional Impact:** This principle guides me to honest self-reporting during system outages, strict adherence to least-privilege access policies, and a refusal to implement deceptive mechanisms that compromise user autonomy.
 
 ### Initial Curated Materials
-* **Conference Address — *The Power of a Personal Testimony* by President Dieter F. Uchtdorf:**  
+* **Conference Address - *The Power of a Personal Testimony* by President Dieter F. Uchtdorf:**  
   *Context:* Demonstrates that living righteously behind closed doors directly feeds personal spiritual strength and clarity.
-* **Scripture — 2 Nephi 2:16, 27:**  
+* **Scripture - 2 Nephi 2:16, 27:**  
   *Context:* Underscores that agency is a divine gift that must be respected through honest, transparent systems design.
-* **Scripture — 1 Chronicles 29:17:**  
+* **Scripture - 1 Chronicles 29:17:**  
   *Context:* Explains that in hidden places, one must be governed by pure motives, not the fear of an audit.
-* **Scripture — Luke 16:10:**  
+* **Scripture - Luke 16:10:**  
   *Context:* Shows that integrity in routine tasks forms the baseline for managing critical production platforms.
-* **Scripture — Alma 27:27:**  
+* **Scripture - Alma 27:27:**  
   *Context:* Explains that integrity demands total honesty and unwavering truthfulness across all technical and professional interactions.
 
 ---
 
 ## Principle 3: Christlike Charity and the Covenant of Unity
 
-Technical competence without charity fosters intellectual arrogance and impatience toward non-technical stakeholders. Technology is not an end in itself; it is a vehicle for serving people, lifting burdens, and building community. Charity—the pure love of Christ—requires meeting team members, end users, and cross-functional partners with genuine patience, empathy, and humility.
+Technical competence without charity fosters intellectual arrogance and impatience toward non-technical stakeholders. Technology is not an end in itself; it is a vehicle for serving people, lifting burdens, and building community. Charity-the pure love of Christ-requires meeting team members, end users, and cross-functional partners with genuine patience, empathy, and humility.
 
 Furthermore, true discipleship rejects segregation between co-workers at the workplace. As Elder Dale G. Renlund warned, *"If we are not one, we are not His."* Leading as a disciple means prioritizing shared organizational objectives, fostering blameless learning during system retrospectives, and seeking unity over personal recognition or intellectual dominance.
 
@@ -61,15 +61,15 @@ Furthermore, true discipleship rejects segregation between co-workers at the wor
 * **Professional Impact:** This principle manifests as active listening, transparent documentation, constructive peer reviews, and blameless post-mortem investigations after critical incidents. It creates a collaborative team culture where individuals feel safe to innovate, ask questions, and learn from mistakes without fear of ridicule.
 
 ### Initial Curated Materials
-* **Scripture — Moroni 7:45:**  
+* **Scripture - Moroni 7:45:**  
   *Context:* Charity serves as the ultimate standard for professional communication, emotional control, and selfless team leadership under stress.
-* **Scripture — John 13:34–35:**  
+* **Scripture - John 13:34–35:**  
   *Context:* Preaches that we should practice love just as Christ has taught us.
-* **Conference Address — *The Peace of Christ Abolishes Enmity* by Elder Dale G. Renlund:**  
+* **Conference Address - *The Peace of Christ Abolishes Enmity* by Elder Dale G. Renlund:**  
   *Context:* Compels disciple-leaders to bridge team divides, eliminate departmental silos, and pursue unity as a core covenant responsibility.
-* **BYU Speech — *Becoming a Disciple-Leader* by Elder Kim B. Clark:**  
+* **BYU Speech - *Becoming a Disciple-Leader* by Elder Kim B. Clark:**  
   *Context:* Establishes that leadership in the Savior’s pattern is rooted in humility, consecration, and using one's influence to elevate and empower the agency of others.
-* **Personal Practice — Daily Bible Study and Prayer:**  
+* **Personal Practice - Daily Bible Study and Prayer:**  
   *Context:* The daily practice of beginning each morning with focused scripture reading and sincere prayer centers the spirit, dispels operational anxiety, and cultivates the inner peace necessary to treat colleagues with enduring kindness.
 
 ---
