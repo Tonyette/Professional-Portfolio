@@ -2,9 +2,9 @@
  [View_IT_Refinement_report](IT 497 Refinement report.md) | [View_Peer_review_Evaluation](Peer review evaluation for Rolando Alfaro Ramirez.md)
 
 
-# Submitted by Feyisayo Famakinde
+## Submitted by Feyisayo Famakinde
 
-# Abstract
+## Abstract
 
 Intrusion detection systems are guardrails for a network; they detect
 issues within systems and report them as alerts. Security Information
@@ -14,20 +14,20 @@ information on the installation and configuration of its agents and
 console.
 
 
-# Registering an Intrusion detection Agent with a Security Information Event Management Solution.
+## Registering an Intrusion detection Agent with a Security Information Event Management Solution.
 
-# EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 
-# Overview - The Quick Pitch
+## Overview - The Quick Pitch
 
 This summary will demonstrate how Wazuh agents collect information about
 every activity within a particular operating system after deployment and
 configuration. The information collected would also be displayed in a
 Graphical User Interface where data can be analyzed and alerts verified.
 
-# The Solution
+## The Solution
 
-# Installation.
+## Installation.
 
 For this solution, I will be working with three Virtual Machines in
 VirtualBox: two Windows Server VM and Ubuntu Server VM. For the Wazuh
@@ -174,7 +174,7 @@ Events](https://docs.google.com/spreadsheets/d/1N3nWmtObIrcrJZr7EJcO4ZbJhws4au-v
   configuration included texts such as ACTIVE, WARN, OFFLINE with
   color-codes for user accessibility.
 
-# Conclusion.
+## Conclusion.
 
 From the summary above, Wazuh provides stellar detection solutions when
 properly configured. We can conclude by acknowledging that Intrusion

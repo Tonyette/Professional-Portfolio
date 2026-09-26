@@ -2,7 +2,7 @@
  [View_IT_Refinement_report](IT 497 Refinement report.md) | [View_Peer_review_Evaluation](Peer review evaluation for Rolando Alfaro Ramirez.md)
 
 
-# Peer review for Rolando Alfaro Rominez.
+## Peer review for Rolando Alfaro Rominez.
 
 I think this is a great project, especially with the refinements you have included.
 

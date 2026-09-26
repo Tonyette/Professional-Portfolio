@@ -2,7 +2,7 @@
  [View_IT_Refinement_report](IT 497 Refinement report.md) | [View_Peer_review_Evaluation](Peer review evaluation for Rolando Alfaro Ramirez.md)
 
 
-# This report records the changes I have made in my SIEM for intrusion detection installation project and the challenges they addressed including ethical considerations.
+## This report records the changes I have made in my SIEM for intrusion detection installation project and the challenges they addressed including ethical considerations.
 
 ## Improvements and Challenges.
 
