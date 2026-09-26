@@ -1,4 +1,7 @@
-This report records the changes I have made in my SIEM for intrusion detection installation project and the challenges they addressed including ethical considerations.
+[Home](index.md) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [View Refined Project](Security Information Event Management System_Refined.md) | [View IT Refinement report](IT 497 Refinement report.md) | [View Peer review Evaluation](Peer review evaluation for Rolando Alfaro Rominez.md)
+
+
+# This report records the changes I have made in my SIEM for intrusion detection installation project and the challenges they addressed including ethical considerations.
 
 ## Improvements and Challenges.
 
