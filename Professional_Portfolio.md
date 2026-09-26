@@ -1,4 +1,4 @@
-[Home](index.md) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [View Refined Project](Security Information Event Management System_Refined.docx)
+[Home](index.md) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [View Refined Project](Security Information Event Management System_Refined.md)
 
 
 # Spiritual Progression Portfolio: Foundational Guiding Principles & Curated Materials
