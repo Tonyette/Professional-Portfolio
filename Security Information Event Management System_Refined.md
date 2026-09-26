@@ -1,8 +1,11 @@
+[Home](index.md) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [View Refined Project](Security Information Event Management System_Refined.md) | [View IT Refinement report](IT 497 Refinement report.md) | [View Peer review Evaluation](Peer review evaluation for Rolando Alfaro Rominez.md)
+
+
 Submitted by
 
 Feyisayo Famakinde
 
-Abstract
+# Abstract
 
 Intrusion detection systems are guardrails for a network; they detect
 issues within systems and report them as alerts. Security Information
@@ -11,14 +14,10 @@ many SIEM’s available is called Wazuh. This document would provide
 information on the installation and configuration of its agents and
 console.
 
-Executive Summary
-
-Register an IDS agent with a Security Information Event Management
-(SIEM) Console
 
 # Registering an Intrusion detection Agent with a Security Information Event Management Solution.
 
-**EXECUTIVE SUMMARY**
+# EXECUTIVE SUMMARY
 
 # Overview - The Quick Pitch
 
