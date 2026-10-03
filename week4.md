@@ -1,7 +1,5 @@
-[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md)
+[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](weekkly-report.md) | [Weekly Report](weekly-report.md)
 
-
-# week 4
 # Quiet-Place Reflection: Agency, Diligence, and Growth
 
 Reflecting on all the scriptures, conferences and speeches, one thing is clear: God does not intend for us to be passive observers waiting for detailed instructions before we act. Moral agency is an active power placed within us. Therefore, we are expected to take fruitful steps at taking initiative, not waiting for directions or commands from others on what we need to do.
