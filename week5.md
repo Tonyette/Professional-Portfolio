@@ -26,15 +26,15 @@ fast paced. Therefore, there is high risk of burnout and cognitive
 overload if not properly managed. The indicators below would serve as a
 warning for me to adjust when they occur:
 
-Skipping Morning Devotionals: Neglecting early morning Bible study and
+**Skipping Morning Devotionals**: Neglecting early morning Bible study and
 prayer leaves my mind unanchored, replacing divine focus with anxiety
 and scattered thinking.
 
-Late-Night Work & Sleep Deprivation: Pushing through complex
+**Late-Night Work & Sleep Deprivation**: Pushing through complex
 configurations late into the night at the expense of necessary rest
 directly degrades cognitive stamina.
 
-Heightened Irritability: When exhausted and spirituality is depleted,
+**Heightened Irritability**: When exhausted and spirituality is depleted,
 impatience can surface quickly during cross-functional meetings, code
 reviews or unexpected operational disruptions.
 
