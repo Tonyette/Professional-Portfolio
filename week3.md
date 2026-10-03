@@ -1,5 +1,4 @@
-[Home](index.md) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](week4.md) | [View_Refined_Project](Security Information Event Management System_Refined.md) |
-[View_IT_Refinement_report](IT 497 Refinement report.md) | [View_Peer_review_Evaluation](Peer review evaluation for Rolando Alfaro Ramirez.md)
+[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md)
 
 
 # Spiritual Progression Portfolio: Foundational Guiding Principles & Curated Materials
