@@ -6,14 +6,14 @@
 
 #### A. Core Attributes Under Development
 
-Charity (Moroni 7:45): Placing focus on exhibiting charity by treating
+**Charity (Moroni 7:45)**: Placing focus on exhibiting charity by treating
 colleagues and clients with respect while showing restraint and
 resilience during high-pressure system outages or technical discussions.
 The Love that Christ embodies is displayed through blameless
 communication and treating everyone with respect while avoiding
 contention .
 
-Diligence (D&C 64:33--34; Ecclesiastes 9:10): Writing clean and testable
+**Diligence (D&C 64:33-34; Ecclesiastes 9:10)**: Writing clean and testable
 code while monitoring systems carefully and establishing well-written
 documentations proves our diligence and prepares us for the Lord's
 blessings. Understanding that Heavenly Father respects and blesses our
@@ -38,25 +38,25 @@ Heightened Irritability: When exhausted and spirituality is depleted,
 impatience can surface quickly during cross-functional meetings, code
 reviews or unexpected operational disruptions.
 
-C. Deliberate Strategies for Realignment
+#### C. Deliberate Strategies for Realignment
 
 It is important to identify the methods for restoring cognitive balance
 when at the brink of burnout. The steps below would help restore balance
 before operational friction compromises relationships or work quality:
 
-Enforcing D&C 88:124: Resetting my physical sleep schedule by sleeping
+**Enforcing D&C 88:124**: Resetting my physical sleep schedule by sleeping
 early and creating a bedtime alarm to eliminate fatigue. Creating an
 alarm for end of workday to avoid overtime and rising early to
 invigorate the body and mind.
 
-Upholding Morning Scripture Study & Prayer: Protecting the first hour of
+**Upholding Morning Scripture Study & Prayer**: Protecting the first hour of
 the day for prayer and scripture study to dissolve anxiety and regain
 mental clarity.
 
-Uplifting Music: Using hymns to quiet an anxious mind, reset emotional
+**Uplifting Music**: Using hymns to quiet an anxious mind, reset emotional
 composure and invite the Spirit back into the workspace.
 
-Strict Sabbath Observance: Unplugging completely from deployment
+**Strict Sabbath Observance**: Unplugging completely from deployment
 dashboards, work chat boards, cloud consoles and technical tasks on
 Sunday to honor covenants, renew perspective and achieve genuine
 spiritual renewal.
