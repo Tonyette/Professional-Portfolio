@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md) | [Spiritual Progression Portfolio](spiritual-portfolio.md)
+[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](spiritual-and-professional-portfolio.md) | [Weekly Report](weekly-report.md) 
 
 # Spiritual Progression Portfolio: Foundational Guiding Principles & Curated Materials
 This portofolio contains the guiding values for my spirituality intertwined with my personal and professional life. It contains information about the principles that guard my decisions and work. It has scriptures from the Bible and the Book of Mormon, speeches from Church leaders and Apostles on the best path to follow in being a disciple of Jesus and an accountable leader at work.
@@ -156,3 +156,98 @@ composure and invite the Spirit back into the workspace.
 dashboards, work chat boards, cloud consoles and technical tasks on
 Sunday to honor covenants, renew perspective and achieve genuine
 spiritual renewal.
+
+
+# Professional Growth Portfolio
+
+## Professional Portfolio Introduction
+
+I am a Cloud and DevOps Engineer specializing in infrastructure automation, container orchestration and system reliability, completing my Bachelor of Applied Information Technology at Ensign College. My journey into technology began in the humanities, where I earned a degree in English Language. Driven by a desire to solve operational challenges and build scalable digital solutions, I transitioned into IT through intensive cohorts, focused independent coursework and rigorous self-directed study.
+
+This unique background bridges technical execution with analytical communication, deliberate problem-solving and empathy. Guided by my faith as a disciple-leader, I view technology as a consecrated stewardship. My technical focus spanning multi-cloud environments, Infrastructure as Code (IaC) and DevSecOps is rooted in the commitment to build secure, resilient architectures that safeguard user agency, protect organizational trust and serve end users with integrity.
+
+---
+
+## Professional Resume
+
+### **Feyisayo Famakinde**
+**Cloud Infrastructure Engineer | Disciple-Leader**  
+Lagos, Nigeria | [linkedin.com/in/feyisayofamakinde](https://www.linkedin.com/in/feyisayofamakinde)
+
+---
+
+### **Professional Summary**
+Results-driven Cloud Infrastructure Engineer with over 5 years of proven production experience designing, automating and maintaining resilient multi-cloud infrastructure across AWS and Azure. Specialized in managing enterprise-grade Kubernetes clusters, implementing GitOps (ArgoCD) and CI/CD pipelines and driving Infrastructure as Code (Terraform) to accelerate software delivery. Grounded in disciple-leadership, combining high technical rigor with cross-functional empathy, proactive communication and ethical operational stewardship.
+
+---
+
+### **Core Competencies & Technical Skills**
+* **Container Orchestration & Cloud:** Kubernetes (AWS EKS, Azure AKS), Docker, Helm, AWS (VPC, Site-to-Site VPN, Customer Gateway, S3, IAM), Azure (Storage Accounts, VNets, ARM Templates).
+* **Infrastructure as Code & GitOps:** Terraform (Modules, State Management), ArgoCD (GitOps workflows), ARM Templates, Automation Workflows.
+* **CI/CD & Version Control:** GitHub Actions, Azure DevOps, GitLab CI, Git.
+* **Observability, Monitoring & Logging:** Grafana Stack (Alloy, Loki, Mimir, Tempo), Datadog (Kubernetes Agents), Prometheus.
+* **Networking, Systems & Security:** Pod Security Contexts, Network Policies, RBAC, DNS, VPNs, Firewalls, TLS/SSL routing, Ingress Controllers, Linux (Ubuntu performance optimization).
+* **Scripting & Languages:** Python (Automation, Infrastructure Validation), Bash.
+* **Leadership & Professional Practice:** Cross-functional developer collaboration, blameless incident retrospectives, self-service platform design, disciple-leadership.
+
+---
+
+### **Professional Experience**
+
+#### **Senior Infrastructure Engineer** | *Kuda Bank* | *2022 – Present*
+* Own and operate high-availability production Kubernetes clusters across AWS and Azure for critical banking workloads, configuring Horizontal Pod Autoscalers (HPAs) and SSL/TLS Ingress routing.
+* Enforce robust pod security standards using security contexts, granular Role-Based Access Control (RBAC) and Kubernetes network policies.
+* Design and implement enterprise VPC architecture, including subnet segmentation, private endpoints, DNS routing and secure service-to-service communication.
+* Automate cloud infrastructure using reusable Terraform modules and ARM templates, accelerating deployment velocity by 30% while establishing repeatable IaC standards.
+* Manage secure storage solutions across AWS S3 and Azure Storage Accounts, implementing lifecycle tiering, hardening and multi-region redundancy.
+* Design self-service GitOps pipelines with ArgoCD, GitHub Actions and Azure DevOps, enabling autonomous, secure deployments across development teams.
+* Architect full-stack observability with Datadog and Grafana (Alloy, Loki, Mimir, Tempo), improving incident response and driving a 40% gain in system performance through resource rightsizing.
+
+#### **Junior DevOps / SRE Engineer** | *Kuda Bank* | *Lagos, Nigeria* | *2021 – 2022*
+* Supported a major migration from legacy hosting to containerized Kubernetes on Docker, transitioning .NET and JavaScript microservices and achieving an 80% improvement in reliability.
+* Built a high-impact self-service platform featuring a Kubernetes-based email and SMS management system, boosting engineering team productivity by 50%.
+* Developed lightweight Python automation scripts for infrastructure validation, health checks and deployment reporting.
+* Managed day-to-day infrastructure operations, configuration baselines and monitoring within stringent financial regulatory requirements.
+* Partnered cross-functionally to institute standard incident response procedures, automation frameworks and proactive system health tracking.
+
+---
+
+### **Certifications**
+* **Certified Kubernetes Administrator (CKA)**
+* **Google IT Support Professional Certificate**
+
+---
+
+### **Education & Continuous Learning**
+* **Bachelor of Applied Science in Applied Information Technology**  
+  *Ensign College, Salt Lake City, USA* | *Expected Completion: 2026/2027*
+* **Certificate, IT Professional**  
+  *Ensign College, Salt Lake City, USA* | *2025*
+* **Certificate, Technical Support Engineer**  
+  *Ensign College, Salt Lake City, USA* | *2024*
+* **Bachelor of Arts (BA)**  
+  *Obafemi Awolowo University, Nigeria*
+* **Foundational IT Transition & Independent Study:**  
+  *Successfully navigated a career pivot from the humanities into enterprise systems engineering through intensive cohorts, self-directed lab work and specialized coursework.*
+
+---
+
+## Project Descriptions: Integrating Technical Achievements & Spiritual Growth
+
+### Project 1: Multi-Cloud Automated Infrastructure Provisioning (Terraform & AWS/Azure)
+* **Technical Overview:** Designed and deployed a resilient, modular multi-cloud infrastructure provisioning pipeline using Terraform. Addressed complex challenges regarding circular state dependencies, multi-provider credential isolation and configuration drift. Built standardized modules for VPC/VNets peering, subnets and secure transit gateways, cutting deployment times by over 80% while establishing consistent security baselines.
+* **Spiritual & Character Integration:** This project demanded rigorous study, iterative testing and late nights resolving cryptic dependency graphs. It operationalized the principle of **Consecrated Diligence (D&C 64:33–34; Ecclesiastes 9:10)**. Mastery of Infrastructure as Code does not happen by inspiration alone; it required exhausting my own honest efforts in reading documentation and testing state configurations before seeking clarity through prayer. The result is an orderly and reliable architecture reflecting divine patterns of creation, stewardship and reliability.
+
+---
+
+### Project 2: Enterprise Kubernetes Cluster Hardening & Application Orchestration
+* **Technical Overview:** Orchestrated microservice workloads across enterprise Kubernetes clusters (AKS/EKS). Overcame severe challenges involving pod evictions under unpredicted traffic bursts with Horizontal Pod Autoscalers (HPA), Vertical Pod Autoscalers and resource limits. Resolved unsegmented pod-to-pod network traffic and security with dynamic ingress routing, strict network security policies and least-privilege RBAC definitions to lock down the cluster control plane.
+* **Spiritual & Character Integration:** Kubernetes is designed to control microservices harmoniously under a single control plane. Orchestrating and hardening these Kubernetes clusters required practicing charity, patience and true partnership. Rather than viewing security policies as a weapon of bureaucratic control, I approached cluster hardening as an act of protective stewardship for both our end users and our engineering teams. When deployments broke or configurations failed under load, I chose to avoid fault-finding (D&C 88:124), offering clear technical guidance and blameless troubleshooting sessions instead. Designing orderly, reliable cluster guardrails minimized daily friction for my peers, reflecting on the covenant to be united in purpose and using technical skill to build peace and mutual support within the team.
+
+---
+
+### Project 3: Vulnerability Assessment & Pen Testing Lab
+* **Technical Overview:** Conducted vulnerability assessments and penetration testing within dedicated lab environments using the Metasploit Framework. Mapped exposure vectors across simulated subnets, analyzed unauthorized privilege-escalation pathways and evaluated post-exploitation credential harvesting risks. Translated exploit findings into actionable host-hardening baselines, firewall rule definitions and strict least-privilege configurations to secure vulnerable application and operating system layers.
+* **Spiritual & Character Integration:** Working directly with offensive tools like the Metasploit Framework highlights the thin line between exploitation and protection. This project operationalizes the principle of **Integrity in Hidden Places**. Honing the techniques used to compromise environments presents a profound moral test: the knowledge of how to hack systems demands complete, internal uprightness of heart before God devoid of external surveillance. This offensive insight was directed solely as a defensive shield to uncover weaknesses, protect human agency (2 Nephi 2:16, 27) and safeguard user data privacy.
+
+---
