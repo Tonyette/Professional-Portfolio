@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](weekkly-report.md) | [Weekly Report](weekly-report.md)
+[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md) | [Spiritual Progression Portfolio](spiritual-portfolio.md)
 
 # Quiet-Place Reflection: Agency, Diligence, and Growth
 

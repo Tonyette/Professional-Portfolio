@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md)
+[Home](index.md) | [Projects](projects.md) | [Resume](resume.md) | [Spiritual & Professional Growth](week4.md) | [Weekly Report](weekly-report.md) | [Spiritual Progression Portfolio](spiritual-portfolio.md)
 
 ## Spiritual Progression Portfolio: Comprehensive Review & Realignment Guide
 
