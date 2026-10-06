@@ -194,20 +194,28 @@ Results-driven Cloud Infrastructure Engineer with over 5 years of proven product
 
 ### **Professional Experience**
 
-#### **Senior Infrastructure Engineer** | *Kuda Bank* | *2022 – Present*
+<!-- #### **Senior Infrastructure Engineer** | *Kuda Bank* | *2022 – Present*
 * Own and operate high-availability production Kubernetes clusters across AWS and Azure for critical banking workloads, configuring Horizontal Pod Autoscalers (HPAs) and SSL/TLS Ingress routing.
 * Enforce robust pod security standards using security contexts, granular Role-Based Access Control (RBAC) and Kubernetes network policies.
 * Design and implement enterprise VPC architecture, including subnet segmentation, private endpoints, DNS routing and secure service-to-service communication.
 * Automate cloud infrastructure using reusable Terraform modules and ARM templates, accelerating deployment velocity by 30% while establishing repeatable IaC standards.
 * Manage secure storage solutions across AWS S3 and Azure Storage Accounts, implementing lifecycle tiering, hardening and multi-region redundancy.
 * Design self-service GitOps pipelines with ArgoCD, GitHub Actions and Azure DevOps, enabling autonomous, secure deployments across development teams.
-* Architect full-stack observability with Datadog and Grafana (Alloy, Loki, Mimir, Tempo), improving incident response and driving a 40% gain in system performance through resource rightsizing.
+* Architect full-stack observability with Datadog and Grafana (Alloy, Loki, Mimir, Tempo), improving incident response and driving a 40% gain in system performance through resource rightsizing. -->
 
-#### **Junior DevOps / SRE Engineer** | *Kuda Bank* | *Lagos, Nigeria* | *2021 – 2022*
+<!-- #### **Junior DevOps / SRE Engineer** | *Kuda Bank* | *Lagos, Nigeria* | *2021 – 2022*
 * Supported a major migration from legacy hosting to containerized Kubernetes on Docker, transitioning .NET and JavaScript microservices and achieving an 80% improvement in reliability.
 * Built a high-impact self-service platform featuring a Kubernetes-based email and SMS management system, boosting engineering team productivity by 50%.
 * Developed lightweight Python automation scripts for infrastructure validation, health checks and deployment reporting.
 * Managed day-to-day infrastructure operations, configuration baselines and monitoring within stringent financial regulatory requirements.
+* Partnered cross-functionally to institute standard incident response procedures, automation frameworks and proactive system health tracking. -->
+
+
+#### **DevOps Engineer** | *BYU Pathway Worldwide* | *Lagos, Nigeria* | *2025*
+* Design and implement well architected CI/CD pipelines for application and data artifacts.
+* Integrate functionality and security tests guided by shift-left policies to ensure application reliability.
+* Developed Terraform modules to increase deployment velocity while establishing repeatable IAC Standards.
+* Managed day-to-day infrastructure operations, configuration baselines and monitoring within stringent data regulatory requirements.
 * Partnered cross-functionally to institute standard incident response procedures, automation frameworks and proactive system health tracking.
 
 ---
