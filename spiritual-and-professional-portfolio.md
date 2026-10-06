@@ -172,7 +172,8 @@ This unique background bridges technical execution with analytical communication
 
 ### **Feyisayo Famakinde**
 **Cloud Infrastructure Engineer | Disciple-Leader**  
-Lagos, Nigeria | [linkedin.com/in/feyisayofamakinde](https://www.linkedin.com/in/feyisayofamakinde)
+Lagos, Nigeria 
+<!-- | [linkedin.com/in/feyisayofamakinde](https://www.linkedin.com/in/feyisayofamakinde) -->
 
 ---
 
