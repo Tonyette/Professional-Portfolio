@@ -81,7 +81,7 @@ Technical competence without charity fosters intellectual arrogance and impatien
 
 The scriptures in Moroni 7:45, John 13:34-35 and Becoming a Disciple Leader by Elder Kim B.Clark have helped me recognize and practice charity better.
 
----*
+---
 ### **Personal Reflections on Spiritual Growth**
 ### *Moving from Passive Expectation to Consecrated Initiative*
 
