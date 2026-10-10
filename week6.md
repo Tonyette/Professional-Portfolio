@@ -46,6 +46,8 @@ Elder David A. Bednar's teaching about spiritual and temporal things being inter
 
 I believe Heavenly Father expects me to develop my talents while seeking His guidance. Through diligence, charity, personal agency, honesty, and continuous learning. I hope to become a better IT professional and a more faithful disciple of Jesus Christ
 
+---
+
 ## Spiritual Progression Portfolio: Foundational Guiding Principles & Curated Materials
 This portfolio contains the guiding values for my spirituality intertwined with my personal and professional life. At the core of my existence is the belief that my spiritual life influences the other parts of my life. In this case, my major principles stems from values I have developed from engaging with scriptures from the Bible and the Book of Mormon, speeches from Church leaders and Apostles on the best path to follow in being a disciple of Jesus and an accountable leader at work.
 
@@ -53,13 +55,13 @@ This portfolio contains the guiding values for my spirituality intertwined with 
 
 Here are the three principles I try to follow in ensuring I am on the right path as intended by the Lord:
 
-#### Diligence
+### Diligence
 
 I believe that God has bestowed us with the gifts of Moral Agency and capacity so we can make decisions and do work with our own minds and hands.
 Viewing work through this lens moves it from labor into consecrated stewardship; I begin to see myaily job as an expression of my ordinances towards the Heavenly Father. 
 Therefore, instead of relying only on my creativity instead of adequate preparation, I commit to putting in the required efforts by reading documentation, testing architectures and diagnosing bugs methodically. When I exhaust my own honest efforts and reach the limits of my knowledge, I can approach the Lord with confidence in prayer, knowing that He honors faithful labor and will magnify my natural abilities to accomplish His purposes.
 
-The scriptures in D&C 64:33-34, D&C 9:7-8, Ecclesiastes 9:10 and The Blessings of Work by David Sorensen have helped strengthen my beliefs.
+**The scriptures in D&C 64:33-34, D&C 9:7-8, Ecclesiastes 9:10 and The Blessings of Work by David Sorensen have helped strengthen my beliefs.**
 
 ---
 
@@ -68,7 +70,7 @@ The scriptures in D&C 64:33-34, D&C 9:7-8, Ecclesiastes 9:10 and The Blessings o
 True integrity is defined by what an engineer chooses to do when there are no audits actively watching, no automated alerts firing and no peers looking over their shoulder.
 Therefore, as a follower of Jesus Christ I recognize that administrative access is a sacred trust. Whether configuring database permissions, auditing system logs, or admitting an accidental script failure that deleted backup data, moral agency must be exercised with absolute honesty, transparency and accountability before God and fellow human beings.
 
-The scriptures in 2 Nephi 2:16, 1 Chronicles 29:17, Luke 16:10 and Alma 27:27 have blessed me in understanding integrity better.
+**The scriptures in 2 Nephi 2:16, 1 Chronicles 29:17, Luke 16:10 and Alma 27:27 have blessed me in understanding integrity better.**
 
 ---
 
@@ -81,14 +83,14 @@ The scriptures in Moroni 7:45, John 13:34-35 and Becoming a Disciple Leader by E
 
 ---
 ### Personal Reflections
-#### Moving from Passive Expectation to Consecrated Initiative
+#### **Moving from Passive Expectation to Consecrated Initiative**
 
 Overtime, I have discovered that people who take proactive approaches towards their goals and plans tend to go a mile and fulfill all that they aimed to achieve. I have also come to learn that a great to conquer my anxiety especially at a job is to continuously commit to reading the scriptures and praying to the Lord.
 So, I have come to uphold the concepts of stewardship and proactiveness over anxiety because I have seen and testify to their effectiveness.
 
 In ensuring this, I have highlighted important signs and remedies to ensure I stay on the right path;
 
-#### Personal Warning Signs of Spiritual and Emotional Drift
+#### **Personal Warning Signs of Spiritual and Emotional Drift**
 
 The DevOps and cloud infrastructure professional environment can be very
 fast paced. Therefore, there is high risk of burnout and cognitive
@@ -107,7 +109,8 @@ directly degrades cognitive stamina.
 impatience can surface quickly during cross-functional meetings, code
 reviews or unexpected operational disruptions.
 
-#### Deliberate Strategies for Realignment
+
+#### **Deliberate Strategies for Realignment**
 
 It is important to identify the methods for restoring cognitive balance
 when at the brink of burnout. The steps below would help restore balance
@@ -130,7 +133,7 @@ dashboards, work chat boards, cloud consoles and technical tasks on
 Sunday to honor covenants, renew perspective and achieve genuine
 spiritual renewal.
 
-
+---
 ## Professional Growth Portfolio
 
 ### Professional Portfolio Introduction
@@ -254,31 +257,31 @@ Honing the techniques used to compromise environments presents a profound moral 
 
 #### My peer review of Rolando Alfaro Rominez's Portfolio
 
-> *I think this is a great project, especially with the refinements you have included. It highlights the importance of documentation in a technical organization especially for tasks that are repeatable. This improves the accessibility of information by team members or volunteers, increasing the efficiency in configuring and delivering systems.*
+> ***I think this is a great project, especially with the refinements you have included. It highlights the importance of documentation in a technical organization especially for tasks that are repeatable. This improves the accessibility of information by team members or volunteers, increasing the efficiency in configuring and delivering systems.*
 >
-> *The implementation of cross-platform tools like BitRazer to solve the same problem across Windows, Mac and Ubuntu Operating Systems shows resourcefulness and establishes your expertise as a refined technologist. It also saves the time of fellow team members, as they can focus on mastering one tool for that task.*
+> ***The implementation of cross-platform tools like BitRazer to solve the same problem across Windows, Mac and Ubuntu Operating Systems shows resourcefulness and establishes your expertise as a refined technologist. It also saves the time of fellow team members, as they can focus on mastering one tool for that task.*
 >
-> *The consideration for orderliness by recommending a color-management scheme for PCs is a great way to improve efficiency. Also, the introduction of a standard for processes also helps the team member in aligning their goals and understanding what is expected of them. I believe this is an act that increases accountability and morality in the workspace.*
+> ***The consideration for orderliness by recommending a color-management scheme for PCs is a great way to improve efficiency. Also, the introduction of a standard for processes also helps the team member in aligning their goals and understanding what is expected of them. I believe this is an act that increases accountability and morality in the workspace.*
 >
-> *The decision to protect customer’s personal data from team members is a great way to ensure that everyone is compliant with data protection laws and the moral code expected as disciples of Jesus Christ.*
+> ***The decision to protect customer’s personal data from team members is a great way to ensure that everyone is compliant with data protection laws and the moral code expected as disciples of Jesus Christ.*
 >
-> *Overall, I think this was a well-executed project, I wish you the best in your endeavors.*
+> ***Overall, I think this was a well-executed project, I wish you the best in your endeavors.*
 
 #### My review of Frank B. Cosme's Portfolio
 
-> *I think the navigation of your portfolio was well organized. Users like fellow students, recruiters or an instructor would have no issue finding relevant parts of the portfolio. Also, placing the core principles in highlighted boxes makes them appear as the anchor of the portfolio and I think that’s brilliant because one can always go back and refer to them.*
+> ***I think the navigation of your portfolio was well organized. Users like fellow students, recruiters or an instructor would have no issue finding relevant parts of the portfolio. Also, placing the core principles in highlighted boxes makes them appear as the anchor of the portfolio and I think that’s brilliant because one can always go back and refer to them.***
 >
-> *The way each spiritual principle was intertwined with every professional breakthrough and decision you had is quite innovative. Each principle served as a propeller for how you live your personal and professional life, I believe this establishes the core lessons of this course so kudos on that.*
+> ***The way each spiritual principle was intertwined with every professional breakthrough and decision you had is quite innovative. Each principle served as a propeller for how you live your personal and professional life, I believe this establishes the core lessons of this course so kudos on that.***
 >
-> *Your experience of COVID-19 being significant in your spiritual development reminded me of my own personal experiences and how the Lord led me to a new career in that period.*
+> ***Your experience of COVID-19 being significant in your spiritual development reminded me of my own personal experiences and how the Lord led me to a new career in that period.***
 >
-> *One area I think you could improve is to include more evidences in line such as the speeches and conferences that have influenced you till date. I am suggesting this because someone could stumble on your portfolio in the future and be inspired. It appears a little disjointed for them to scroll down to find the resources(you could rename from “full artifacts collection” to something that signals spirituality) and the links might have them confused too. I believe it would be awesome if they could leave with more materials to engage with and be blessed by.*
+> ***One area I think you could improve is to include more evidences in line such as the speeches and conferences that have influenced you till date. I am suggesting this because someone could stumble on your portfolio in the future and be inspired. It appears a little disjointed for them to scroll down to find the resources(you could rename from “full artifacts collection” to something that signals spirituality) and the links might have them confused too. I believe it would be awesome if they could leave with more materials to engage with and be blessed by.***
 >
-> *Also, I think it would help to push your resume a little upward in the portfolio, probably after the block on technical and professional capabilities. Away from the link to the resume, you could include a little snippet of what you have accomplished; It does not have to contain all the duties you fulfilled in a role, at least it should show your journey from the beginning of your career upward. This would help introduce your professional life to a recruiter who comes across your portfolio.*
+> ***Also, I think it would help to push your resume a little upward in the portfolio, probably after the block on technical and professional capabilities. Away from the link to the resume, you could include a little snippet of what you have accomplished; It does not have to contain all the duties you fulfilled in a role, at least it should show your journey from the beginning of your career upward. This would help introduce your professional life to a recruiter who comes across your portfolio.***
 >
-> *I found your ethical dilemma quite interesting, and it is the first time I have ever heard of that situation so thank you for sharing. Do you have an idea or plan for how much you would have improved in your career in 5 years’ time? Overall, I think your portfolio came out well, it shows genuine effort and insights. Wishing you the very in your future endeavors.*
+> ***I found your ethical dilemma quite interesting, and it is the first time I have ever heard of that situation so thank you for sharing. Do you have an idea or plan for how much you would have improved in your career in 5 years’ time? Overall, I think your portfolio came out well, it shows genuine effort and insights. Wishing you the very in your future endeavors.***
 
-#### Review I got 
+#### The Review I got 
 
 **Name:** Sonny Kwabena Klutsey  
 **Course:** IT 497 IT Capstone  
@@ -287,21 +290,21 @@ Honing the techniques used to compromise environments presents a profound moral 
 
 #### REVIEW
 
-> *Hello Feyisayo Famakinde,*
+> ***Hello Feyisayo Famakinde,***
 >
-> *I enjoyed reviewing your Spiritual Progression and Professional Growth Portfolios. One of the strongest parts of your portfolio is how clearly, you connect your spiritual principles with your professional goals. I especially liked your focus on integrity, diligence, agency, charity, and stewardship. Your discussion of administrative access as a responsibility and not simply a technical privilege was a strong connection between your faith and your career in IT. Your professional projects also make your portfolio stronger because you explain both the technical work and the character or spiritual lessons you learned from each project.*
+> ***I enjoyed reviewing your Spiritual Progression and Professional Growth Portfolios. One of the strongest parts of your portfolio is how clearly, you connect your spiritual principles with your professional goals. I especially liked your focus on integrity, diligence, agency, charity, and stewardship. Your discussion of administrative access as a responsibility and not simply a technical privilege was a strong connection between your faith and your career in IT. Your professional projects also make your portfolio stronger because you explain both the technical work and the character or spiritual lessons you learned from each project.***
 >
-> *One insight I gained from your portfolio is that professional growth is not only about gaining technical skills. It is also about developing the character needed to use those skills responsibly. I liked how you connected Infrastructure as Code and systems administration with stewardship and responsibility. Your discussion of recognizing warning signs such as burnout, lack of sleep, and irritability also showed that spiritual and professional growth require regular self-evaluation.*
+> ***One insight I gained from your portfolio is that professional growth is not only about gaining technical skills. It is also about developing the character needed to use those skills responsibly. I liked how you connected Infrastructure as Code and systems administration with stewardship and responsibility. Your discussion of recognizing warning signs such as burnout, lack of sleep, and irritability also showed that spiritual and professional growth require regular self-evaluation.***
 >
-> *One area that could be improved is the overall readability of the portfolio. There is a lot of detailed information, especially in the spiritual principles and professional experience sections. Some sections could be shortened or organized into smaller paragraphs or bullet points so that important ideas are easier for a reader to find. I also noticed a few small wording and proofreading issues, such as the spelling of “portfolio” in the introduction. A final proofreading pass could make the presentation more polished.*
+> ***One area that could be improved is the overall readability of the portfolio. There is a lot of detailed information, especially in the spiritual principles and professional experience sections. Some sections could be shortened or organized into smaller paragraphs or bullet points so that important ideas are easier for a reader to find. I also noticed a few small wording and proofreading issues, such as the spelling of “portfolio” in the introduction. A final proofreading pass could make the presentation more polished.***
 >
-> *Another possible improvement would be to make some of the professional projects even more accessible to readers who do not have a strong technical background. For example, briefly explaining why technology such as Terraform or Kubernetes matters to a business or end user could make the projects easier to understand.*
+> ***Another possible improvement would be to make some of the professional projects even more accessible to readers who do not have a strong technical background. For example, briefly explaining why technology such as Terraform or Kubernetes matters to a business or end user could make the projects easier to understand.***
 >
-> *My question for you is: Which of the spiritual principles in your portfolio do you think will have the greatest influence on the way you approach your future career, and why?*
+> ***My question for you is: Which of the spiritual principles in your portfolio do you think will have the greatest influence on the way you approach your future career, and why?***
 >
-> *Overall, I think your portfolio does a good job showing that your professional goals and spiritual values are connected. The combination of technical experience, personal reflection, and faith-based principles gives the portfolio a clear sense of purpose.*
+> ***Overall, I think your portfolio does a good job showing that your professional goals and spiritual values are connected. The combination of technical experience, personal reflection, and faith-based principles gives the portfolio a clear sense of purpose.*
 >
-> *Thank you.*
+> ***Thank you.***
 
 I did not get a review in the first round of reviews but my grader dropped a comment on how to better format my portfolio, I took the feedback as a direction to improve on the navigation of my portfolio site. Seperating class work from my resume and portfolio itself. I knew this was successful because my grader commented the navigation when they graded my work the following week. 
 
