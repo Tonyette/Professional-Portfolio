@@ -281,6 +281,8 @@ Honing the techniques used to compromise environments presents a profound moral 
 >
 > ***I found your ethical dilemma quite interesting, and it is the first time I have ever heard of that situation so thank you for sharing. Do you have an idea or plan for how much you would have improved in your career in 5 years’ time? Overall, I think your portfolio came out well, it shows genuine effort and insights. Wishing you the very in your future endeavors.***
 
+___
+
 #### The Review I got 
 
 **Name:** Sonny Kwabena Klutsey  
@@ -306,6 +308,7 @@ Honing the techniques used to compromise environments presents a profound moral 
 >
 > ***Thank you.***
 
+#### **My Report **
 I did not get a review in the first round of reviews but my grader dropped a comment on how to better format my portfolio, I took the feedback as a direction to improve on the navigation of my portfolio site. Seperating class work from my resume and portfolio itself. I knew this was successful because my grader commented the navigation when they graded my work the following week. 
 
 For the second review, I decided to revise the readability of my portfolio by making certain parts more concise and accessible. For the spiritual principles, I made them more concise and under one subheading with the necessary details and scriptures till intact. I also proofread the portfolio to ensure there are no lingering errors. For my projects, I adjusted my choice of words so people with very little technical knowledge can still understand what I aim to pass across and also included the reasons I decided on the project and what it helps businesses with.
