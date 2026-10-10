@@ -83,14 +83,14 @@ The scriptures in Moroni 7:45, John 13:34-35 and Becoming a Disciple Leader by E
 
 ---
 ### Personal Reflections
-#### **Moving from Passive Expectation to Consecrated Initiative**
+### **Moving from Passive Expectation to Consecrated Initiative**
 
 Overtime, I have discovered that people who take proactive approaches towards their goals and plans tend to go a mile and fulfill all that they aimed to achieve. I have also come to learn that a great to conquer my anxiety especially at a job is to continuously commit to reading the scriptures and praying to the Lord.
 So, I have come to uphold the concepts of stewardship and proactiveness over anxiety because I have seen and testify to their effectiveness.
 
 In ensuring this, I have highlighted important signs and remedies to ensure I stay on the right path;
 
-#### **Personal Warning Signs of Spiritual and Emotional Drift**
+### **Personal Warning Signs of Spiritual and Emotional Drift**
 
 The DevOps and cloud infrastructure professional environment can be very
 fast paced. Therefore, there is high risk of burnout and cognitive
@@ -110,7 +110,7 @@ impatience can surface quickly during cross-functional meetings, code
 reviews or unexpected operational disruptions.
 
 
-#### **Deliberate Strategies for Realignment**
+### **Deliberate Strategies for Realignment**
 
 It is important to identify the methods for restoring cognitive balance
 when at the brink of burnout. The steps below would help restore balance
@@ -250,22 +250,19 @@ Honing the techniques used to compromise environments presents a profound moral 
 
 ---
 
-
-.
-
 ### Report on Portfolio Reviews 1 and 2.
 
 #### My peer review of Rolando Alfaro Rominez's Portfolio
 
-> ***I think this is a great project, especially with the refinements you have included. It highlights the importance of documentation in a technical organization especially for tasks that are repeatable. This improves the accessibility of information by team members or volunteers, increasing the efficiency in configuring and delivering systems.*
+> ***I think this is a great project, especially with the refinements you have included. It highlights the importance of documentation in a technical organization especially for tasks that are repeatable. This improves the accessibility of information by team members or volunteers, increasing the efficiency in configuring and delivering systems.***
 >
-> ***The implementation of cross-platform tools like BitRazer to solve the same problem across Windows, Mac and Ubuntu Operating Systems shows resourcefulness and establishes your expertise as a refined technologist. It also saves the time of fellow team members, as they can focus on mastering one tool for that task.*
+> ***The implementation of cross-platform tools like BitRazer to solve the same problem across Windows, Mac and Ubuntu Operating Systems shows resourcefulness and establishes your expertise as a refined technologist. It also saves the time of fellow team members, as they can focus on mastering one tool for that task.***
 >
-> ***The consideration for orderliness by recommending a color-management scheme for PCs is a great way to improve efficiency. Also, the introduction of a standard for processes also helps the team member in aligning their goals and understanding what is expected of them. I believe this is an act that increases accountability and morality in the workspace.*
+> ***The consideration for orderliness by recommending a color-management scheme for PCs is a great way to improve efficiency. Also, the introduction of a standard for processes also helps the team member in aligning their goals and understanding what is expected of them. I believe this is an act that increases accountability and morality in the workspace.***
 >
-> ***The decision to protect customer’s personal data from team members is a great way to ensure that everyone is compliant with data protection laws and the moral code expected as disciples of Jesus Christ.*
+> ***The decision to protect customer’s personal data from team members is a great way to ensure that everyone is compliant with data protection laws and the moral code expected as disciples of Jesus Christ.***
 >
-> ***Overall, I think this was a well-executed project, I wish you the best in your endeavors.*
+> ***Overall, I think this was a well-executed project, I wish you the best in your endeavors.***
 
 #### My review of Frank B. Cosme's Portfolio
 
