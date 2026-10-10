@@ -81,16 +81,16 @@ Technical competence without charity fosters intellectual arrogance and impatien
 
 The scriptures in Moroni 7:45, John 13:34-35 and Becoming a Disciple Leader by Elder Kim B.Clark have helped me recognize and practice charity better.
 
----
-### Personal Reflections on Spiritual Growth
-### **Moving from Passive Expectation to Consecrated Initiative**
+---*
+### ***Personal Reflections on Spiritual Growth***
+### *Moving from Passive Expectation to Consecrated Initiative*
 
 Overtime, I have discovered that people who take proactive approaches towards their goals and plans tend to go a mile and fulfill all that they aimed to achieve. I have also come to learn that a great to conquer my anxiety especially at a job is to continuously commit to reading the scriptures and praying to the Lord.
 So, I have come to uphold the concepts of stewardship and proactiveness over anxiety because I have seen and testify to their effectiveness.
 
 In ensuring this, I have highlighted important signs and remedies to ensure I stay on the right path;
 
-### **Personal Warning Signs of Spiritual and Emotional Drift**
+### *Personal Warning Signs of Spiritual and Emotional Drift*
 
 The DevOps and cloud infrastructure professional environment can be very
 fast paced. Therefore, there is high risk of burnout and cognitive
@@ -110,7 +110,7 @@ impatience can surface quickly during cross-functional meetings, code
 reviews or unexpected operational disruptions.
 
 
-### **Deliberate Strategies for Realignment**
+### *Deliberate Strategies for Realignment*
 
 It is important to identify the methods for restoring cognitive balance
 when at the brink of burnout. The steps below would help restore balance
